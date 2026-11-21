@@ -1,0 +1,5 @@
+﻿assumption,intake_low,intake_base,intake_high
+Addressable pool,15,20,25
+Stated intention rate,15,20,25
+Intention-to-application conversion,15,20,25
+Admission yield,15,20,25

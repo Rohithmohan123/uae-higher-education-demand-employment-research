@@ -1,0 +1,12 @@
+﻿course,sector,assumed_openings_low,assumed_openings_high,growth_outlook,course_name,data_type
+lis,Public & national libraries,25,60,Stable,BSc Library & Information Science,ASSUMPTION
+lis,University & school libraries,40,90,Stable,BSc Library & Information Science,ASSUMPTION
+lis,Government records & archives,30,80,Growing,BSc Library & Information Science,ASSUMPTION
+lis,Corporate knowledge management,20,70,Growing,BSc Library & Information Science,ASSUMPTION
+lis,Museums & cultural heritage,10,35,Growing,BSc Library & Information Science,ASSUMPTION
+cogai,Technology & software,150,400,Fast-growing,BSc Cognitive Science & AI,ASSUMPTION
+cogai,Government digital services,80,220,Fast-growing,BSc Cognitive Science & AI,ASSUMPTION
+cogai,Healthcare & health-tech,40,120,Growing,BSc Cognitive Science & AI,ASSUMPTION
+cogai,Banking & fintech,60,180,Growing,BSc Cognitive Science & AI,ASSUMPTION
+cogai,Education & ed-tech,30,90,Growing,BSc Cognitive Science & AI,ASSUMPTION
+cogai,Research institutes,20,60,Growing,BSc Cognitive Science & AI,ASSUMPTION

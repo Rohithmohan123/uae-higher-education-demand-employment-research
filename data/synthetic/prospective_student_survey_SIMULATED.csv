@@ -1,0 +1,1201 @@
+﻿respondent_id,emirate,segment,interest_lis,intent_lis,interest_cogai,intent_cogai,preferred_mode,annual_budget,top_priority,data_type
+R0001,Dubai,Grade 12 - UAE national,1,0,4,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0002,Fujairah,Grade 12 - UAE national,3,0,4,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0003,Abu Dhabi,Grade 12 - UAE national,2,0,3,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0004,Dubai,Grade 12 - expatriate,2,0,5,1,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0005,Dubai,Career changer,3,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0006,Sharjah,Grade 12 - UAE national,2,0,5,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0007,Abu Dhabi,Grade 12 - expatriate,2,0,5,1,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0008,Dubai,Grade 12 - UAE national,1,0,5,1,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0009,Abu Dhabi,Working professional,5,1,4,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0010,Dubai,Grade 12 - UAE national,2,0,3,0,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0011,Dubai,Working professional,2,0,4,1,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0012,Dubai,Working professional,3,1,2,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0013,Sharjah,Grade 12 - expatriate,2,0,4,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0014,Ras Al Khaimah,Working professional,5,1,4,1,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0015,Fujairah,Grade 12 - expatriate,3,0,4,1,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0016,Sharjah,Grade 12 - expatriate,1,0,5,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0017,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0018,Dubai,Working professional,3,0,2,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0019,Fujairah,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0020,Abu Dhabi,Career changer,4,1,4,1,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0021,Abu Dhabi,Career changer,3,0,5,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0022,Dubai,Grade 12 - expatriate,2,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0023,Abu Dhabi,Working professional,4,0,3,1,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0024,Dubai,Grade 12 - UAE national,3,0,4,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0025,Dubai,Grade 12 - expatriate,2,0,4,1,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0026,Abu Dhabi,Career changer,2,0,2,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0027,Dubai,Grade 12 - expatriate,2,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0028,Abu Dhabi,Grade 12 - UAE national,5,0,4,1,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0029,Ras Al Khaimah,Grade 12 - expatriate,1,0,5,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0030,Dubai,Grade 12 - UAE national,2,0,4,1,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R0031,Dubai,Grade 12 - expatriate,2,0,2,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0032,Ras Al Khaimah,Working professional,3,0,5,1,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0033,Dubai,Career changer,2,0,5,1,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0034,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0035,Dubai,Working professional,3,0,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0036,Ajman,Working professional,3,0,3,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0037,Dubai,Working professional,3,0,2,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0038,Ras Al Khaimah,Career changer,3,0,3,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0039,Abu Dhabi,Grade 12 - UAE national,3,0,2,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0040,Dubai,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0041,Ajman,Grade 12 - expatriate,3,0,5,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0042,Abu Dhabi,Career changer,3,0,5,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0043,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0044,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0045,Dubai,Grade 12 - UAE national,3,1,3,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0046,Ajman,Grade 12 - UAE national,3,0,3,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0047,Abu Dhabi,Grade 12 - expatriate,3,0,4,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0048,Ras Al Khaimah,Career changer,5,1,5,0,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0049,Dubai,Grade 12 - expatriate,3,0,5,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0050,Abu Dhabi,Working professional,4,0,5,1,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0051,Ras Al Khaimah,Grade 12 - UAE national,1,0,2,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0052,Abu Dhabi,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0053,Dubai,Career changer,1,0,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0054,Dubai,Grade 12 - UAE national,2,0,4,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0055,Sharjah,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0056,Abu Dhabi,Career changer,3,0,2,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0057,Dubai,Working professional,2,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0058,Abu Dhabi,Grade 12 - expatriate,4,0,3,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0059,Abu Dhabi,Career changer,4,0,5,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0060,Sharjah,Grade 12 - UAE national,4,0,5,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0061,Dubai,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0062,Dubai,Career changer,2,0,3,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0063,Dubai,Grade 12 - expatriate,2,0,5,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0064,Abu Dhabi,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0065,Dubai,Working professional,1,0,5,1,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0066,Abu Dhabi,Career changer,3,0,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0067,Dubai,Working professional,3,0,3,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0068,Abu Dhabi,Career changer,4,0,2,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0069,Sharjah,Grade 12 - UAE national,4,0,5,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0070,Dubai,Career changer,3,0,3,0,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0071,Abu Dhabi,Working professional,5,0,3,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0072,Dubai,Career changer,3,0,2,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0073,Ras Al Khaimah,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0074,Abu Dhabi,Career changer,3,0,2,0,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R0075,Dubai,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0076,Sharjah,Grade 12 - expatriate,1,0,2,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0077,Sharjah,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0078,Dubai,Career changer,2,0,3,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0079,Abu Dhabi,Career changer,3,1,4,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0080,Sharjah,Career changer,3,0,3,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0081,Dubai,Grade 12 - expatriate,3,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0082,Abu Dhabi,Career changer,4,0,5,1,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0083,Dubai,Grade 12 - UAE national,4,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0084,Ajman,Working professional,3,0,3,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0085,Abu Dhabi,Grade 12 - expatriate,2,0,5,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0086,Dubai,Grade 12 - UAE national,1,0,4,0,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0087,Abu Dhabi,Grade 12 - expatriate,2,0,5,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0088,Abu Dhabi,Grade 12 - expatriate,2,0,5,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0089,Abu Dhabi,Grade 12 - expatriate,1,0,5,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0090,Abu Dhabi,Career changer,3,0,4,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0091,Abu Dhabi,Working professional,3,1,4,1,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0092,Dubai,Career changer,3,0,3,1,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0093,Dubai,Working professional,2,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0094,Abu Dhabi,Working professional,1,0,4,1,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0095,Dubai,Working professional,3,0,3,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0096,Abu Dhabi,Working professional,3,0,3,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0097,Abu Dhabi,Grade 12 - expatriate,2,0,5,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0098,Abu Dhabi,Grade 12 - UAE national,2,0,5,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0099,Sharjah,Career changer,4,0,5,0,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0100,Dubai,Grade 12 - expatriate,1,0,2,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0101,Sharjah,Grade 12 - UAE national,3,0,3,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0102,Dubai,Grade 12 - expatriate,3,0,5,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0103,Dubai,Grade 12 - expatriate,1,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0104,Dubai,Grade 12 - expatriate,2,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0105,Fujairah,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0106,Fujairah,Working professional,5,1,3,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0107,Dubai,Working professional,3,0,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0108,Dubai,Grade 12 - expatriate,1,0,3,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0109,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0110,Sharjah,Working professional,3,0,3,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0111,Dubai,Working professional,2,0,2,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0112,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0113,Ajman,Grade 12 - expatriate,1,0,5,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0114,Abu Dhabi,Working professional,3,1,4,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0115,Abu Dhabi,Working professional,4,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0116,Ras Al Khaimah,Grade 12 - UAE national,2,0,2,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0117,Sharjah,Working professional,3,0,5,0,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R0118,Dubai,Working professional,4,1,4,1,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0119,Abu Dhabi,Grade 12 - expatriate,1,0,5,1,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0120,Abu Dhabi,Grade 12 - UAE national,4,1,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0121,Abu Dhabi,Grade 12 - expatriate,3,0,3,1,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0122,Dubai,Working professional,3,0,3,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0123,Ajman,Career changer,1,0,2,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0124,Sharjah,Working professional,3,0,2,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0125,Dubai,Working professional,4,0,2,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0126,Dubai,Working professional,2,0,3,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0127,Dubai,Grade 12 - expatriate,3,0,5,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0128,Abu Dhabi,Grade 12 - UAE national,3,1,5,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0129,Ras Al Khaimah,Grade 12 - UAE national,4,0,2,0,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0130,Sharjah,Grade 12 - expatriate,3,0,4,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0131,Dubai,Grade 12 - expatriate,1,0,5,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0132,Sharjah,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0133,Dubai,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0134,Fujairah,Working professional,4,0,4,1,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0135,Dubai,Career changer,3,0,3,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0136,Sharjah,Grade 12 - UAE national,5,1,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0137,Abu Dhabi,Grade 12 - expatriate,4,0,4,0,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0138,Dubai,Career changer,1,0,4,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0139,Ajman,Grade 12 - UAE national,3,0,4,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0140,Abu Dhabi,Grade 12 - expatriate,4,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0141,Dubai,Grade 12 - UAE national,1,0,2,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0142,Sharjah,Working professional,3,0,4,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0143,Abu Dhabi,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0144,Ajman,Career changer,4,0,4,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0145,Dubai,Career changer,2,0,5,1,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0146,Sharjah,Career changer,2,0,3,0,Hybrid / online,Over AED 80k,Fees and scholarships,SIMULATED
+R0147,Fujairah,Grade 12 - UAE national,3,0,4,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0148,Dubai,Grade 12 - expatriate,2,1,4,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0149,Dubai,Working professional,3,0,1,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0150,Abu Dhabi,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0151,Ajman,Grade 12 - UAE national,3,0,3,1,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0152,Abu Dhabi,Working professional,3,0,2,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0153,Sharjah,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0154,Abu Dhabi,Working professional,3,1,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0155,Sharjah,Grade 12 - expatriate,3,0,1,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0156,Dubai,Grade 12 - UAE national,2,0,5,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0157,Dubai,Grade 12 - expatriate,4,1,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0158,Sharjah,Career changer,2,0,3,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0159,Abu Dhabi,Grade 12 - UAE national,5,1,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0160,Sharjah,Career changer,3,0,2,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0161,Abu Dhabi,Grade 12 - expatriate,3,0,1,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0162,Sharjah,Grade 12 - UAE national,3,0,5,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0163,Dubai,Grade 12 - expatriate,4,1,3,0,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0164,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0165,Dubai,Grade 12 - expatriate,3,0,1,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0166,Dubai,Grade 12 - expatriate,3,0,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0167,Abu Dhabi,Working professional,3,1,4,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0168,Abu Dhabi,Grade 12 - UAE national,2,0,5,1,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0169,Sharjah,Working professional,4,0,3,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0170,Dubai,Grade 12 - UAE national,2,0,2,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0171,Sharjah,Grade 12 - UAE national,3,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0172,Abu Dhabi,Grade 12 - expatriate,3,0,4,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0173,Dubai,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0174,Sharjah,Grade 12 - UAE national,3,0,2,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0175,Abu Dhabi,Grade 12 - expatriate,3,0,4,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0176,Dubai,Grade 12 - expatriate,3,0,5,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0177,Abu Dhabi,Working professional,3,0,3,1,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0178,Dubai,Working professional,3,1,2,0,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0179,Sharjah,Working professional,3,0,4,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0180,Fujairah,Grade 12 - expatriate,1,0,5,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0181,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0182,Dubai,Grade 12 - UAE national,4,1,4,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0183,Umm Al Quwain,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0184,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0185,Dubai,Grade 12 - expatriate,2,0,4,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0186,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0187,Sharjah,Working professional,5,1,5,1,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0188,Ras Al Khaimah,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0189,Abu Dhabi,Career changer,2,0,5,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0190,Dubai,Grade 12 - UAE national,1,0,5,1,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0191,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0192,Sharjah,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0193,Sharjah,Working professional,2,0,2,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0194,Ras Al Khaimah,Grade 12 - UAE national,2,0,5,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0195,Abu Dhabi,Grade 12 - expatriate,2,0,4,1,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0196,Ras Al Khaimah,Grade 12 - UAE national,1,0,5,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0197,Dubai,Career changer,1,0,4,0,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0198,Sharjah,Grade 12 - expatriate,2,0,2,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0199,Ras Al Khaimah,Working professional,4,1,4,0,Part-time / evening,Over AED 80k,Flexible schedule,SIMULATED
+R0200,Dubai,Grade 12 - expatriate,2,0,4,1,Hybrid / online,AED 50-80k,Location,SIMULATED
+R0201,Dubai,Working professional,2,0,3,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0202,Dubai,Grade 12 - UAE national,3,0,4,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0203,Abu Dhabi,Grade 12 - UAE national,1,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0204,Abu Dhabi,Working professional,1,0,4,1,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0205,Dubai,Grade 12 - UAE national,3,1,3,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0206,Dubai,Grade 12 - UAE national,3,1,2,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0207,Umm Al Quwain,Working professional,3,1,2,0,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0208,Sharjah,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0209,Abu Dhabi,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0210,Dubai,Grade 12 - UAE national,3,0,3,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0211,Dubai,Working professional,5,1,2,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0212,Ras Al Khaimah,Grade 12 - UAE national,2,1,3,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0213,Sharjah,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0214,Dubai,Grade 12 - expatriate,3,0,3,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0215,Abu Dhabi,Grade 12 - UAE national,3,0,4,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0216,Ras Al Khaimah,Grade 12 - UAE national,4,0,4,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0217,Umm Al Quwain,Working professional,2,0,3,1,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0218,Sharjah,Grade 12 - UAE national,1,0,1,0,Hybrid / online,Over AED 80k,Location,SIMULATED
+R0219,Sharjah,Career changer,2,0,2,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R0220,Abu Dhabi,Career changer,4,1,4,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0221,Sharjah,Working professional,5,1,2,0,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0222,Ras Al Khaimah,Career changer,3,0,2,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0223,Dubai,Grade 12 - UAE national,2,0,3,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0224,Abu Dhabi,Working professional,2,1,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0225,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0226,Abu Dhabi,Working professional,2,0,4,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0227,Abu Dhabi,Working professional,2,0,4,1,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0228,Umm Al Quwain,Grade 12 - expatriate,1,0,4,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0229,Abu Dhabi,Working professional,2,0,3,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0230,Dubai,Grade 12 - expatriate,3,0,4,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0231,Dubai,Grade 12 - expatriate,4,1,4,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0232,Umm Al Quwain,Grade 12 - UAE national,1,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0233,Abu Dhabi,Career changer,4,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0234,Abu Dhabi,Working professional,3,0,2,0,Part-time / evening,Over AED 80k,Fees and scholarships,SIMULATED
+R0235,Ajman,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0236,Dubai,Career changer,4,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0237,Abu Dhabi,Grade 12 - expatriate,3,0,5,0,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0238,Dubai,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0239,Ajman,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0240,Abu Dhabi,Grade 12 - UAE national,2,0,4,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0241,Ras Al Khaimah,Working professional,2,0,3,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0242,Dubai,Grade 12 - expatriate,2,0,1,0,Hybrid / online,Over AED 80k,Fees and scholarships,SIMULATED
+R0243,Ajman,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0244,Sharjah,Grade 12 - UAE national,2,0,2,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0245,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0246,Ras Al Khaimah,Grade 12 - UAE national,2,0,2,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0247,Abu Dhabi,Grade 12 - expatriate,1,0,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0248,Fujairah,Career changer,2,0,2,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0249,Sharjah,Grade 12 - UAE national,4,1,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0250,Abu Dhabi,Grade 12 - expatriate,3,0,5,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0251,Dubai,Career changer,1,0,5,1,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0252,Fujairah,Grade 12 - expatriate,2,0,3,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0253,Sharjah,Working professional,3,0,1,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0254,Dubai,Grade 12 - expatriate,4,0,2,1,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0255,Dubai,Career changer,3,0,2,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0256,Dubai,Grade 12 - expatriate,4,0,4,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0257,Abu Dhabi,Grade 12 - UAE national,3,0,4,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0258,Sharjah,Working professional,5,0,4,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0259,Abu Dhabi,Grade 12 - UAE national,4,1,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0260,Abu Dhabi,Grade 12 - expatriate,2,1,2,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0261,Sharjah,Working professional,4,1,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0262,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0263,Dubai,Grade 12 - UAE national,3,0,5,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0264,Ajman,Grade 12 - UAE national,1,0,2,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0265,Sharjah,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0266,Ajman,Grade 12 - UAE national,2,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0267,Dubai,Working professional,5,0,4,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0268,Abu Dhabi,Working professional,3,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0269,Abu Dhabi,Working professional,2,0,5,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0270,Abu Dhabi,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0271,Dubai,Grade 12 - UAE national,1,0,3,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0272,Abu Dhabi,Grade 12 - UAE national,2,0,5,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0273,Dubai,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0274,Sharjah,Career changer,2,0,4,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0275,Abu Dhabi,Grade 12 - expatriate,3,1,3,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0276,Umm Al Quwain,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0277,Abu Dhabi,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0278,Fujairah,Grade 12 - UAE national,2,0,5,1,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0279,Abu Dhabi,Working professional,3,0,2,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0280,Abu Dhabi,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0281,Dubai,Career changer,5,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0282,Sharjah,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0283,Ras Al Khaimah,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0284,Dubai,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0285,Abu Dhabi,Grade 12 - expatriate,3,0,5,1,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0286,Dubai,Working professional,4,1,2,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0287,Abu Dhabi,Working professional,4,0,3,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0288,Dubai,Working professional,4,0,2,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0289,Abu Dhabi,Grade 12 - expatriate,1,0,3,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0290,Dubai,Working professional,5,1,4,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0291,Dubai,Grade 12 - UAE national,2,0,5,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0292,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0293,Dubai,Grade 12 - UAE national,4,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0294,Dubai,Working professional,2,0,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0295,Abu Dhabi,Working professional,2,0,4,1,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0296,Dubai,Grade 12 - expatriate,3,0,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0297,Ras Al Khaimah,Grade 12 - UAE national,3,0,2,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0298,Abu Dhabi,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0299,Abu Dhabi,Career changer,2,0,1,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0300,Abu Dhabi,Grade 12 - expatriate,2,0,5,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R0301,Abu Dhabi,Grade 12 - UAE national,4,1,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0302,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0303,Dubai,Grade 12 - expatriate,4,0,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0304,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0305,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0306,Abu Dhabi,Career changer,3,0,4,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0307,Sharjah,Grade 12 - expatriate,3,0,4,0,Hybrid / online,AED 50-80k,Location,SIMULATED
+R0308,Dubai,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0309,Abu Dhabi,Working professional,4,0,4,1,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0310,Abu Dhabi,Grade 12 - expatriate,2,0,4,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R0311,Abu Dhabi,Career changer,4,1,4,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0312,Abu Dhabi,Career changer,5,0,2,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0313,Abu Dhabi,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0314,Umm Al Quwain,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0315,Sharjah,Career changer,5,1,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0316,Ras Al Khaimah,Grade 12 - UAE national,3,0,2,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0317,Sharjah,Grade 12 - expatriate,2,1,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0318,Dubai,Grade 12 - UAE national,1,0,4,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0319,Sharjah,Grade 12 - expatriate,2,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0320,Umm Al Quwain,Career changer,4,0,4,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0321,Ajman,Grade 12 - UAE national,2,0,3,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0322,Sharjah,Grade 12 - UAE national,2,0,5,1,Hybrid / online,Over AED 80k,Fees and scholarships,SIMULATED
+R0323,Dubai,Grade 12 - expatriate,4,0,5,1,Part-time / evening,Over AED 80k,Fees and scholarships,SIMULATED
+R0324,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0325,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0326,Dubai,Grade 12 - UAE national,4,0,4,1,Part-time / evening,Under AED 30k,Location,SIMULATED
+R0327,Dubai,Grade 12 - UAE national,3,0,2,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0328,Ras Al Khaimah,Working professional,3,0,5,1,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0329,Dubai,Working professional,3,0,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0330,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0331,Dubai,Grade 12 - UAE national,3,0,4,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0332,Dubai,Grade 12 - UAE national,2,0,5,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0333,Dubai,Grade 12 - UAE national,3,1,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0334,Dubai,Working professional,4,0,2,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0335,Ras Al Khaimah,Career changer,4,0,5,1,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0336,Abu Dhabi,Career changer,3,0,5,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0337,Dubai,Grade 12 - UAE national,3,0,5,1,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0338,Dubai,Grade 12 - expatriate,3,0,5,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0339,Dubai,Grade 12 - UAE national,4,1,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0340,Abu Dhabi,Grade 12 - UAE national,2,0,2,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0341,Ras Al Khaimah,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0342,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0343,Fujairah,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0344,Ajman,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0345,Abu Dhabi,Career changer,3,0,3,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0346,Ajman,Working professional,4,0,3,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0347,Abu Dhabi,Grade 12 - expatriate,2,0,2,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0348,Dubai,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0349,Umm Al Quwain,Working professional,2,0,4,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0350,Abu Dhabi,Working professional,3,0,2,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0351,Dubai,Working professional,1,0,1,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0352,Abu Dhabi,Grade 12 - UAE national,3,0,4,0,Part-time / evening,Over AED 80k,Accreditation,SIMULATED
+R0353,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0354,Ajman,Grade 12 - UAE national,4,0,5,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0355,Sharjah,Grade 12 - UAE national,1,0,4,1,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0356,Sharjah,Grade 12 - UAE national,3,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0357,Abu Dhabi,Working professional,1,0,4,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0358,Abu Dhabi,Grade 12 - expatriate,2,0,3,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0359,Sharjah,Grade 12 - UAE national,1,0,4,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0360,Dubai,Grade 12 - expatriate,3,0,2,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0361,Dubai,Grade 12 - expatriate,2,0,4,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0362,Abu Dhabi,Grade 12 - UAE national,2,0,1,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0363,Dubai,Grade 12 - UAE national,4,0,5,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0364,Dubai,Grade 12 - UAE national,2,0,2,0,Hybrid / online,Over AED 80k,Fees and scholarships,SIMULATED
+R0365,Abu Dhabi,Grade 12 - expatriate,3,1,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0366,Umm Al Quwain,Grade 12 - expatriate,1,0,5,0,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0367,Ajman,Grade 12 - expatriate,4,1,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0368,Abu Dhabi,Grade 12 - UAE national,3,0,3,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0369,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0370,Dubai,Grade 12 - expatriate,2,0,5,1,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0371,Ras Al Khaimah,Grade 12 - expatriate,1,0,5,1,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0372,Dubai,Grade 12 - expatriate,3,0,5,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0373,Ras Al Khaimah,Grade 12 - UAE national,3,1,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0374,Dubai,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0375,Dubai,Grade 12 - UAE national,4,0,4,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0376,Abu Dhabi,Working professional,3,0,4,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0377,Dubai,Grade 12 - UAE national,5,1,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0378,Sharjah,Grade 12 - expatriate,2,0,4,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0379,Dubai,Working professional,3,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0380,Dubai,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0381,Abu Dhabi,Grade 12 - UAE national,4,1,2,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0382,Ajman,Career changer,5,1,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0383,Abu Dhabi,Working professional,2,0,4,1,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0384,Abu Dhabi,Grade 12 - UAE national,1,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0385,Sharjah,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0386,Ras Al Khaimah,Working professional,3,1,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0387,Abu Dhabi,Grade 12 - expatriate,2,0,5,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0388,Dubai,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0389,Dubai,Working professional,3,0,2,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0390,Dubai,Grade 12 - expatriate,1,0,3,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0391,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R0392,Dubai,Career changer,2,0,3,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0393,Umm Al Quwain,Grade 12 - UAE national,3,0,3,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0394,Dubai,Grade 12 - expatriate,4,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0395,Abu Dhabi,Career changer,3,0,5,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0396,Sharjah,Career changer,4,0,3,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0397,Dubai,Grade 12 - UAE national,3,0,4,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0398,Abu Dhabi,Working professional,3,0,2,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0399,Abu Dhabi,Grade 12 - UAE national,2,0,3,1,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0400,Umm Al Quwain,Grade 12 - expatriate,3,1,3,0,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R0401,Abu Dhabi,Career changer,1,0,5,1,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0402,Abu Dhabi,Grade 12 - expatriate,3,0,4,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0403,Sharjah,Grade 12 - UAE national,5,1,5,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0404,Sharjah,Grade 12 - UAE national,4,0,4,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0405,Abu Dhabi,Grade 12 - expatriate,3,0,5,1,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0406,Abu Dhabi,Grade 12 - UAE national,3,0,2,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0407,Ajman,Grade 12 - expatriate,2,0,2,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0408,Abu Dhabi,Grade 12 - expatriate,3,1,2,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0409,Fujairah,Grade 12 - expatriate,3,0,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0410,Sharjah,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0411,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0412,Umm Al Quwain,Grade 12 - expatriate,1,0,4,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0413,Dubai,Working professional,4,1,2,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0414,Abu Dhabi,Career changer,2,0,5,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0415,Sharjah,Career changer,4,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0416,Ajman,Career changer,3,0,4,1,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0417,Ajman,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0418,Abu Dhabi,Grade 12 - expatriate,3,0,5,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0419,Dubai,Grade 12 - expatriate,4,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0420,Dubai,Grade 12 - UAE national,2,0,4,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0421,Ajman,Grade 12 - UAE national,2,0,4,1,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0422,Ajman,Grade 12 - expatriate,2,0,4,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0423,Abu Dhabi,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0424,Abu Dhabi,Working professional,3,0,3,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0425,Sharjah,Grade 12 - UAE national,4,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0426,Abu Dhabi,Working professional,5,0,4,0,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0427,Ajman,Career changer,5,1,3,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0428,Dubai,Career changer,3,0,4,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0429,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0430,Ajman,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0431,Ras Al Khaimah,Career changer,3,0,3,1,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R0432,Fujairah,Grade 12 - UAE national,2,0,5,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0433,Sharjah,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0434,Dubai,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0435,Ras Al Khaimah,Career changer,3,0,1,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0436,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0437,Abu Dhabi,Working professional,3,0,4,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0438,Dubai,Grade 12 - expatriate,3,0,4,1,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0439,Dubai,Grade 12 - UAE national,3,0,2,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0440,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0441,Abu Dhabi,Grade 12 - UAE national,3,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0442,Sharjah,Grade 12 - UAE national,3,0,5,1,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0443,Sharjah,Grade 12 - UAE national,5,1,2,0,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0444,Sharjah,Career changer,3,1,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0445,Dubai,Grade 12 - expatriate,1,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0446,Dubai,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0447,Dubai,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0448,Sharjah,Grade 12 - expatriate,1,0,5,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0449,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0450,Sharjah,Working professional,2,0,1,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0451,Ras Al Khaimah,Grade 12 - expatriate,2,0,5,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0452,Ajman,Working professional,4,0,2,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0453,Ajman,Grade 12 - UAE national,1,0,3,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0454,Sharjah,Career changer,3,0,5,1,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0455,Dubai,Grade 12 - expatriate,2,0,4,1,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0456,Abu Dhabi,Grade 12 - expatriate,1,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0457,Dubai,Career changer,4,0,2,1,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0458,Dubai,Grade 12 - expatriate,1,0,4,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0459,Dubai,Career changer,4,0,5,1,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0460,Dubai,Working professional,4,0,4,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0461,Sharjah,Career changer,1,0,4,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0462,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0463,Abu Dhabi,Career changer,3,0,3,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0464,Dubai,Working professional,5,1,2,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0465,Ras Al Khaimah,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0466,Dubai,Grade 12 - UAE national,2,0,3,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0467,Dubai,Working professional,3,0,2,1,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0468,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0469,Sharjah,Grade 12 - expatriate,1,0,5,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0470,Dubai,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0471,Dubai,Grade 12 - expatriate,1,0,4,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0472,Fujairah,Grade 12 - UAE national,4,1,5,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0473,Sharjah,Grade 12 - expatriate,1,0,5,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0474,Abu Dhabi,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0475,Ras Al Khaimah,Working professional,3,0,3,0,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R0476,Sharjah,Grade 12 - UAE national,4,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0477,Abu Dhabi,Grade 12 - expatriate,1,0,5,1,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0478,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0479,Sharjah,Grade 12 - expatriate,4,0,4,1,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0480,Sharjah,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0481,Abu Dhabi,Career changer,4,1,5,1,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0482,Abu Dhabi,Career changer,4,1,5,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0483,Abu Dhabi,Career changer,3,0,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0484,Abu Dhabi,Grade 12 - expatriate,3,1,5,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0485,Ras Al Khaimah,Grade 12 - UAE national,4,0,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0486,Dubai,Grade 12 - expatriate,2,0,5,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0487,Ajman,Working professional,4,1,4,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0488,Dubai,Grade 12 - expatriate,1,0,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0489,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0490,Sharjah,Working professional,3,0,2,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0491,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0492,Ras Al Khaimah,Working professional,4,0,4,1,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0493,Sharjah,Grade 12 - expatriate,2,0,2,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0494,Abu Dhabi,Grade 12 - expatriate,3,0,4,0,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0495,Ras Al Khaimah,Grade 12 - expatriate,3,0,4,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0496,Dubai,Working professional,3,0,3,1,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0497,Dubai,Working professional,4,1,4,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0498,Dubai,Career changer,2,0,1,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0499,Dubai,Grade 12 - expatriate,3,0,5,1,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0500,Dubai,Career changer,4,1,2,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0501,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0502,Ras Al Khaimah,Working professional,2,0,4,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0503,Ajman,Grade 12 - UAE national,3,0,5,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0504,Abu Dhabi,Working professional,2,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0505,Abu Dhabi,Working professional,1,0,4,1,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0506,Ras Al Khaimah,Grade 12 - UAE national,3,0,3,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0507,Fujairah,Working professional,2,0,4,1,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0508,Ajman,Career changer,3,0,2,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0509,Sharjah,Working professional,3,0,2,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0510,Ajman,Working professional,2,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0511,Abu Dhabi,Grade 12 - UAE national,2,0,2,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0512,Dubai,Grade 12 - UAE national,3,0,3,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0513,Ajman,Grade 12 - UAE national,3,1,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0514,Sharjah,Working professional,3,0,4,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0515,Ajman,Career changer,4,1,4,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0516,Dubai,Career changer,2,0,4,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0517,Dubai,Grade 12 - expatriate,3,0,5,1,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0518,Dubai,Grade 12 - UAE national,4,0,4,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0519,Dubai,Working professional,3,0,3,0,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R0520,Ras Al Khaimah,Grade 12 - UAE national,3,1,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0521,Dubai,Working professional,3,0,4,1,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0522,Abu Dhabi,Career changer,2,0,4,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0523,Sharjah,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0524,Dubai,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0525,Sharjah,Grade 12 - expatriate,4,0,5,1,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0526,Sharjah,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0527,Dubai,Grade 12 - expatriate,1,0,4,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0528,Dubai,Grade 12 - expatriate,4,1,5,1,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0529,Ras Al Khaimah,Grade 12 - UAE national,5,1,5,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0530,Ajman,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0531,Sharjah,Working professional,1,0,3,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0532,Fujairah,Grade 12 - expatriate,2,0,3,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0533,Dubai,Grade 12 - expatriate,1,0,5,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0534,Abu Dhabi,Grade 12 - UAE national,2,0,5,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0535,Sharjah,Grade 12 - expatriate,2,0,5,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0536,Sharjah,Career changer,2,0,5,1,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0537,Ajman,Career changer,2,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0538,Dubai,Grade 12 - expatriate,4,1,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0539,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0540,Abu Dhabi,Working professional,2,0,2,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0541,Sharjah,Grade 12 - UAE national,4,0,4,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0542,Abu Dhabi,Career changer,4,0,3,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0543,Sharjah,Working professional,4,1,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0544,Dubai,Grade 12 - UAE national,1,0,4,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0545,Sharjah,Career changer,3,0,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0546,Sharjah,Grade 12 - expatriate,1,0,2,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0547,Dubai,Working professional,3,0,5,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0548,Abu Dhabi,Grade 12 - expatriate,4,0,4,1,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0549,Fujairah,Working professional,4,0,2,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0550,Abu Dhabi,Grade 12 - expatriate,2,0,4,0,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0551,Abu Dhabi,Career changer,2,0,5,1,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0552,Abu Dhabi,Working professional,2,0,2,0,Part-time / evening,Over AED 80k,Flexible schedule,SIMULATED
+R0553,Ajman,Career changer,1,0,4,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0554,Abu Dhabi,Grade 12 - expatriate,2,0,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0555,Abu Dhabi,Grade 12 - UAE national,1,0,3,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0556,Ajman,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0557,Dubai,Grade 12 - UAE national,4,1,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0558,Ras Al Khaimah,Working professional,2,0,4,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0559,Dubai,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0560,Abu Dhabi,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0561,Abu Dhabi,Working professional,3,1,3,1,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0562,Dubai,Career changer,3,0,5,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0563,Ajman,Grade 12 - expatriate,3,0,5,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0564,Dubai,Grade 12 - expatriate,2,0,3,0,Part-time / evening,Over AED 80k,Accreditation,SIMULATED
+R0565,Dubai,Career changer,4,1,4,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0566,Umm Al Quwain,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0567,Ajman,Working professional,3,1,5,1,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0568,Abu Dhabi,Grade 12 - expatriate,2,0,2,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0569,Dubai,Grade 12 - expatriate,1,0,4,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0570,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0571,Sharjah,Grade 12 - UAE national,3,1,5,1,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0572,Ras Al Khaimah,Grade 12 - expatriate,2,0,4,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0573,Ajman,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0574,Dubai,Grade 12 - expatriate,3,0,4,1,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0575,Sharjah,Working professional,3,1,4,1,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0576,Fujairah,Grade 12 - UAE national,1,0,5,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0577,Ras Al Khaimah,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0578,Fujairah,Working professional,2,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0579,Dubai,Career changer,3,0,3,0,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R0580,Abu Dhabi,Career changer,2,0,3,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0581,Dubai,Career changer,2,0,2,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0582,Sharjah,Grade 12 - UAE national,4,0,5,1,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0583,Umm Al Quwain,Career changer,2,0,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0584,Abu Dhabi,Grade 12 - expatriate,1,0,4,1,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0585,Sharjah,Grade 12 - expatriate,3,0,5,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0586,Fujairah,Working professional,3,0,3,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0587,Abu Dhabi,Career changer,5,0,3,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0588,Abu Dhabi,Working professional,4,0,3,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0589,Dubai,Working professional,4,0,5,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0590,Dubai,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0591,Abu Dhabi,Working professional,4,0,4,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0592,Abu Dhabi,Grade 12 - UAE national,3,0,4,0,Part-time / evening,Over AED 80k,Fees and scholarships,SIMULATED
+R0593,Ras Al Khaimah,Working professional,2,0,3,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0594,Ajman,Working professional,3,1,2,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0595,Abu Dhabi,Grade 12 - UAE national,3,0,2,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0596,Fujairah,Career changer,2,0,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0597,Umm Al Quwain,Grade 12 - UAE national,3,0,2,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0598,Fujairah,Working professional,2,0,4,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0599,Ras Al Khaimah,Working professional,2,0,2,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0600,Sharjah,Career changer,4,1,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0601,Abu Dhabi,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0602,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0603,Sharjah,Career changer,4,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0604,Sharjah,Career changer,3,1,4,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0605,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0606,Abu Dhabi,Grade 12 - UAE national,1,0,2,0,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0607,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0608,Dubai,Working professional,4,1,3,1,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0609,Umm Al Quwain,Working professional,4,1,5,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0610,Abu Dhabi,Career changer,4,0,2,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0611,Sharjah,Grade 12 - UAE national,4,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0612,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0613,Abu Dhabi,Grade 12 - UAE national,3,0,4,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0614,Dubai,Grade 12 - expatriate,2,0,4,1,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0615,Abu Dhabi,Working professional,3,0,2,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0616,Ajman,Working professional,4,0,3,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0617,Dubai,Grade 12 - expatriate,3,0,2,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0618,Abu Dhabi,Grade 12 - UAE national,2,0,3,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0619,Sharjah,Working professional,1,0,3,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0620,Dubai,Grade 12 - expatriate,3,0,4,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0621,Sharjah,Working professional,4,1,3,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0622,Sharjah,Grade 12 - expatriate,1,0,4,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0623,Fujairah,Grade 12 - UAE national,3,0,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0624,Dubai,Grade 12 - expatriate,4,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0625,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0626,Abu Dhabi,Career changer,4,0,3,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0627,Umm Al Quwain,Grade 12 - expatriate,3,0,4,1,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0628,Dubai,Working professional,1,0,2,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0629,Abu Dhabi,Career changer,3,0,5,1,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0630,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0631,Sharjah,Working professional,3,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0632,Sharjah,Working professional,3,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0633,Dubai,Grade 12 - UAE national,2,0,4,0,Part-time / evening,Over AED 80k,Accreditation,SIMULATED
+R0634,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0635,Dubai,Career changer,3,0,4,1,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0636,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0637,Dubai,Grade 12 - expatriate,3,0,3,0,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0638,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R0639,Dubai,Working professional,3,0,5,1,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0640,Sharjah,Working professional,5,0,3,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0641,Abu Dhabi,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0642,Abu Dhabi,Grade 12 - UAE national,3,0,5,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0643,Dubai,Working professional,2,0,1,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0644,Abu Dhabi,Career changer,3,0,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0645,Ajman,Grade 12 - expatriate,3,1,5,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0646,Dubai,Grade 12 - expatriate,3,1,4,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0647,Sharjah,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0648,Sharjah,Working professional,4,0,2,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0649,Abu Dhabi,Career changer,2,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0650,Ajman,Working professional,3,0,3,1,Part-time / evening,Under AED 30k,Location,SIMULATED
+R0651,Abu Dhabi,Working professional,3,0,4,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0652,Abu Dhabi,Working professional,2,0,2,0,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R0653,Abu Dhabi,Working professional,1,0,4,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0654,Abu Dhabi,Working professional,2,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0655,Abu Dhabi,Grade 12 - expatriate,2,1,2,0,Part-time / evening,Under AED 30k,Location,SIMULATED
+R0656,Dubai,Grade 12 - UAE national,1,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0657,Sharjah,Working professional,3,0,3,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0658,Abu Dhabi,Grade 12 - expatriate,1,0,5,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0659,Abu Dhabi,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0660,Dubai,Career changer,4,1,3,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0661,Umm Al Quwain,Career changer,3,0,2,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R0662,Dubai,Grade 12 - UAE national,3,0,2,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0663,Dubai,Working professional,3,0,2,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0664,Sharjah,Working professional,1,0,2,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0665,Dubai,Grade 12 - expatriate,3,0,3,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0666,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0667,Abu Dhabi,Working professional,3,0,3,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0668,Ras Al Khaimah,Career changer,3,0,3,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0669,Abu Dhabi,Grade 12 - UAE national,1,0,3,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R0670,Abu Dhabi,Career changer,3,0,4,1,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R0671,Sharjah,Working professional,3,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0672,Dubai,Grade 12 - expatriate,2,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0673,Dubai,Grade 12 - expatriate,2,0,5,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0674,Sharjah,Grade 12 - expatriate,5,1,5,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0675,Dubai,Working professional,2,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0676,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0677,Dubai,Working professional,2,0,2,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0678,Ras Al Khaimah,Career changer,3,0,3,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0679,Dubai,Working professional,3,0,2,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0680,Ajman,Grade 12 - UAE national,1,0,3,0,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0681,Abu Dhabi,Working professional,2,0,2,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0682,Dubai,Grade 12 - expatriate,5,1,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0683,Abu Dhabi,Grade 12 - UAE national,1,0,2,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0684,Abu Dhabi,Grade 12 - expatriate,5,1,5,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0685,Abu Dhabi,Working professional,1,0,2,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0686,Ras Al Khaimah,Grade 12 - UAE national,2,0,2,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0687,Abu Dhabi,Career changer,2,0,2,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0688,Ras Al Khaimah,Grade 12 - expatriate,2,0,4,0,Hybrid / online,Over AED 80k,Fees and scholarships,SIMULATED
+R0689,Ajman,Working professional,4,0,3,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0690,Sharjah,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0691,Dubai,Working professional,3,0,1,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0692,Dubai,Working professional,4,0,2,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0693,Abu Dhabi,Grade 12 - UAE national,5,1,5,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0694,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0695,Sharjah,Grade 12 - UAE national,3,0,5,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0696,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0697,Sharjah,Grade 12 - UAE national,5,1,4,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0698,Abu Dhabi,Working professional,4,1,4,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0699,Sharjah,Grade 12 - expatriate,2,0,3,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0700,Dubai,Grade 12 - UAE national,2,0,3,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0701,Dubai,Grade 12 - expatriate,2,0,4,1,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0702,Sharjah,Grade 12 - expatriate,2,0,5,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0703,Abu Dhabi,Working professional,3,0,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0704,Dubai,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0705,Sharjah,Grade 12 - expatriate,1,0,5,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0706,Sharjah,Working professional,4,1,4,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0707,Dubai,Grade 12 - UAE national,1,0,5,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0708,Abu Dhabi,Grade 12 - UAE national,3,0,2,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0709,Dubai,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0710,Abu Dhabi,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0711,Abu Dhabi,Grade 12 - expatriate,3,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0712,Dubai,Working professional,3,0,2,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0713,Ajman,Career changer,2,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0714,Ras Al Khaimah,Grade 12 - expatriate,1,0,2,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0715,Abu Dhabi,Grade 12 - expatriate,1,0,4,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0716,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0717,Abu Dhabi,Career changer,3,0,4,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0718,Dubai,Career changer,2,0,4,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0719,Abu Dhabi,Career changer,3,0,4,1,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0720,Sharjah,Grade 12 - UAE national,3,0,4,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0721,Sharjah,Career changer,4,0,2,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0722,Abu Dhabi,Career changer,4,0,2,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0723,Sharjah,Grade 12 - expatriate,1,0,5,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0724,Sharjah,Grade 12 - UAE national,2,0,2,0,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0725,Abu Dhabi,Grade 12 - UAE national,3,1,5,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0726,Abu Dhabi,Working professional,2,0,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0727,Abu Dhabi,Working professional,3,0,3,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0728,Sharjah,Grade 12 - UAE national,3,0,4,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0729,Ajman,Career changer,2,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0730,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0731,Abu Dhabi,Grade 12 - expatriate,1,0,4,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0732,Abu Dhabi,Career changer,3,0,2,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0733,Sharjah,Career changer,4,1,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0734,Abu Dhabi,Career changer,3,1,3,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0735,Fujairah,Career changer,2,0,2,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R0736,Dubai,Career changer,2,0,2,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0737,Dubai,Working professional,3,0,4,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0738,Dubai,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0739,Sharjah,Career changer,3,0,4,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0740,Sharjah,Grade 12 - UAE national,3,0,5,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0741,Dubai,Working professional,3,0,4,0,Hybrid / online,Under AED 30k,Location,SIMULATED
+R0742,Fujairah,Working professional,3,0,5,1,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0743,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0744,Umm Al Quwain,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0745,Abu Dhabi,Career changer,3,0,4,1,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0746,Abu Dhabi,Working professional,2,0,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0747,Abu Dhabi,Career changer,3,1,5,0,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0748,Abu Dhabi,Working professional,2,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0749,Dubai,Working professional,2,0,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R0750,Abu Dhabi,Grade 12 - UAE national,1,0,5,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0751,Dubai,Grade 12 - UAE national,5,1,3,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0752,Abu Dhabi,Grade 12 - UAE national,3,0,5,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0753,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0754,Dubai,Grade 12 - expatriate,2,0,4,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0755,Dubai,Working professional,3,0,4,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0756,Ajman,Working professional,4,0,4,1,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0757,Sharjah,Grade 12 - expatriate,1,0,3,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0758,Sharjah,Career changer,3,0,4,1,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R0759,Abu Dhabi,Grade 12 - UAE national,3,0,4,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0760,Dubai,Working professional,5,0,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0761,Sharjah,Grade 12 - expatriate,2,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0762,Sharjah,Grade 12 - UAE national,1,0,2,0,Hybrid / online,Over AED 80k,Flexible schedule,SIMULATED
+R0763,Dubai,Grade 12 - UAE national,1,0,4,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0764,Dubai,Grade 12 - UAE national,3,0,4,0,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R0765,Abu Dhabi,Working professional,3,0,2,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0766,Abu Dhabi,Grade 12 - UAE national,3,1,5,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0767,Umm Al Quwain,Working professional,3,1,3,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0768,Dubai,Grade 12 - UAE national,1,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0769,Abu Dhabi,Career changer,3,1,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0770,Abu Dhabi,Grade 12 - UAE national,4,1,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0771,Dubai,Grade 12 - expatriate,3,0,5,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0772,Dubai,Career changer,3,0,2,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0773,Abu Dhabi,Working professional,3,0,2,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0774,Dubai,Career changer,4,0,3,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0775,Abu Dhabi,Working professional,3,1,3,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0776,Dubai,Working professional,4,1,4,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0777,Dubai,Grade 12 - expatriate,2,0,4,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0778,Abu Dhabi,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0779,Ajman,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0780,Abu Dhabi,Career changer,4,1,5,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0781,Dubai,Career changer,4,1,4,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0782,Sharjah,Working professional,2,0,1,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0783,Dubai,Grade 12 - expatriate,4,1,2,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0784,Dubai,Grade 12 - UAE national,4,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0785,Abu Dhabi,Career changer,3,0,3,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0786,Sharjah,Grade 12 - UAE national,1,0,4,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0787,Abu Dhabi,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0788,Dubai,Grade 12 - expatriate,3,0,5,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0789,Ajman,Working professional,4,0,3,1,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0790,Dubai,Working professional,2,0,4,1,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0791,Dubai,Grade 12 - UAE national,4,1,4,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0792,Abu Dhabi,Grade 12 - UAE national,2,0,2,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0793,Fujairah,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0794,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0795,Abu Dhabi,Working professional,3,0,3,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0796,Abu Dhabi,Working professional,2,0,2,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0797,Abu Dhabi,Grade 12 - UAE national,1,0,3,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0798,Abu Dhabi,Career changer,3,0,2,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0799,Abu Dhabi,Career changer,2,0,4,1,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0800,Dubai,Grade 12 - UAE national,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0801,Dubai,Working professional,1,0,4,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0802,Sharjah,Career changer,4,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0803,Sharjah,Grade 12 - expatriate,4,0,5,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0804,Sharjah,Grade 12 - UAE national,1,0,5,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0805,Ajman,Grade 12 - UAE national,5,1,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0806,Sharjah,Grade 12 - UAE national,1,0,5,1,Full-time on campus,Over AED 80k,Flexible schedule,SIMULATED
+R0807,Dubai,Grade 12 - UAE national,5,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0808,Abu Dhabi,Grade 12 - expatriate,3,0,5,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0809,Sharjah,Career changer,4,0,5,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0810,Dubai,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0811,Sharjah,Career changer,4,0,5,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0812,Dubai,Career changer,3,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0813,Abu Dhabi,Grade 12 - UAE national,5,1,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0814,Fujairah,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0815,Ajman,Grade 12 - UAE national,3,0,5,1,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0816,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0817,Abu Dhabi,Working professional,1,0,4,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0818,Abu Dhabi,Career changer,4,0,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0819,Abu Dhabi,Working professional,2,0,3,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0820,Dubai,Working professional,2,0,2,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0821,Sharjah,Working professional,4,0,4,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0822,Abu Dhabi,Grade 12 - UAE national,2,0,5,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0823,Abu Dhabi,Grade 12 - UAE national,3,0,2,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0824,Dubai,Grade 12 - expatriate,3,0,4,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0825,Abu Dhabi,Career changer,3,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0826,Dubai,Grade 12 - expatriate,3,1,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0827,Dubai,Working professional,2,0,4,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0828,Sharjah,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0829,Dubai,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0830,Dubai,Grade 12 - expatriate,2,0,5,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0831,Abu Dhabi,Grade 12 - UAE national,3,0,2,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0832,Dubai,Grade 12 - expatriate,3,0,2,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0833,Dubai,Grade 12 - UAE national,5,0,2,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0834,Dubai,Career changer,2,0,4,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0835,Dubai,Grade 12 - UAE national,3,0,3,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0836,Sharjah,Grade 12 - UAE national,3,0,4,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0837,Dubai,Working professional,2,0,3,0,Part-time / evening,Over AED 80k,Accreditation,SIMULATED
+R0838,Ajman,Grade 12 - expatriate,1,0,5,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0839,Ras Al Khaimah,Working professional,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0840,Dubai,Grade 12 - UAE national,1,0,4,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0841,Abu Dhabi,Working professional,2,0,2,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0842,Sharjah,Grade 12 - expatriate,3,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0843,Abu Dhabi,Grade 12 - UAE national,4,0,4,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0844,Sharjah,Grade 12 - expatriate,3,0,5,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0845,Ajman,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0846,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0847,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0848,Dubai,Grade 12 - expatriate,1,0,1,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0849,Umm Al Quwain,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0850,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0851,Abu Dhabi,Career changer,3,0,2,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0852,Umm Al Quwain,Grade 12 - expatriate,2,0,5,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0853,Abu Dhabi,Working professional,4,0,4,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0854,Abu Dhabi,Working professional,3,0,2,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0855,Dubai,Grade 12 - UAE national,1,0,5,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0856,Dubai,Grade 12 - expatriate,1,0,2,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0857,Abu Dhabi,Working professional,2,1,3,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0858,Abu Dhabi,Working professional,5,1,3,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0859,Abu Dhabi,Grade 12 - expatriate,2,0,4,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0860,Ras Al Khaimah,Grade 12 - expatriate,2,0,5,1,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0861,Abu Dhabi,Working professional,2,1,3,1,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0862,Dubai,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0863,Ras Al Khaimah,Grade 12 - expatriate,4,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0864,Abu Dhabi,Grade 12 - expatriate,1,0,5,1,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0865,Dubai,Career changer,3,0,2,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0866,Dubai,Grade 12 - UAE national,2,0,3,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0867,Sharjah,Grade 12 - UAE national,2,0,3,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0868,Dubai,Grade 12 - expatriate,4,1,5,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0869,Abu Dhabi,Grade 12 - expatriate,1,0,4,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0870,Dubai,Working professional,3,0,3,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0871,Dubai,Grade 12 - expatriate,1,0,2,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0872,Ajman,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0873,Sharjah,Career changer,2,0,1,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0874,Sharjah,Grade 12 - expatriate,2,0,3,0,Hybrid / online,AED 50-80k,Location,SIMULATED
+R0875,Dubai,Working professional,1,0,5,1,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0876,Dubai,Grade 12 - UAE national,4,0,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0877,Dubai,Working professional,4,0,4,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0878,Dubai,Grade 12 - UAE national,4,1,4,1,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0879,Dubai,Grade 12 - expatriate,4,0,4,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0880,Dubai,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R0881,Dubai,Grade 12 - UAE national,3,1,5,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0882,Dubai,Grade 12 - UAE national,4,0,5,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0883,Sharjah,Working professional,3,0,2,0,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0884,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0885,Abu Dhabi,Working professional,1,0,2,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0886,Ras Al Khaimah,Career changer,3,0,4,1,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0887,Sharjah,Grade 12 - UAE national,3,0,4,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0888,Ras Al Khaimah,Working professional,3,1,2,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0889,Dubai,Working professional,4,0,5,1,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0890,Dubai,Grade 12 - expatriate,3,0,2,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0891,Umm Al Quwain,Working professional,2,0,4,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R0892,Dubai,Career changer,1,0,2,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0893,Abu Dhabi,Grade 12 - UAE national,4,1,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0894,Abu Dhabi,Working professional,2,0,3,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0895,Sharjah,Career changer,2,0,5,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0896,Sharjah,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0897,Abu Dhabi,Grade 12 - expatriate,3,0,3,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0898,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Hybrid / online,AED 30-50k,Location,SIMULATED
+R0899,Dubai,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0900,Abu Dhabi,Grade 12 - UAE national,2,0,3,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0901,Dubai,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R0902,Dubai,Working professional,4,0,4,0,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0903,Sharjah,Career changer,3,0,5,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0904,Sharjah,Grade 12 - expatriate,1,0,2,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0905,Sharjah,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0906,Fujairah,Working professional,3,0,3,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0907,Sharjah,Grade 12 - expatriate,5,0,5,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R0908,Ajman,Career changer,2,0,5,1,Part-time / evening,Over AED 80k,Flexible schedule,SIMULATED
+R0909,Ajman,Grade 12 - UAE national,4,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0910,Ajman,Grade 12 - expatriate,2,0,2,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0911,Abu Dhabi,Grade 12 - UAE national,3,0,2,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0912,Ras Al Khaimah,Career changer,1,0,5,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0913,Dubai,Working professional,3,0,3,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0914,Sharjah,Grade 12 - UAE national,2,0,4,1,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0915,Dubai,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0916,Abu Dhabi,Career changer,5,1,4,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0917,Sharjah,Career changer,5,1,4,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R0918,Dubai,Career changer,3,1,4,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0919,Sharjah,Working professional,4,0,5,1,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0920,Sharjah,Grade 12 - UAE national,4,1,4,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0921,Ras Al Khaimah,Grade 12 - UAE national,4,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0922,Sharjah,Grade 12 - expatriate,3,0,4,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R0923,Sharjah,Career changer,4,0,5,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0924,Abu Dhabi,Working professional,3,1,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0925,Sharjah,Grade 12 - expatriate,2,0,5,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0926,Dubai,Grade 12 - UAE national,1,0,5,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0927,Dubai,Career changer,3,0,4,1,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R0928,Umm Al Quwain,Grade 12 - expatriate,1,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0929,Sharjah,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0930,Sharjah,Working professional,4,0,2,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0931,Sharjah,Career changer,3,1,4,1,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R0932,Fujairah,Career changer,2,0,4,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R0933,Sharjah,Grade 12 - expatriate,2,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0934,Fujairah,Career changer,4,0,3,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0935,Sharjah,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0936,Abu Dhabi,Career changer,5,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0937,Umm Al Quwain,Working professional,2,0,2,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R0938,Dubai,Grade 12 - expatriate,2,0,4,1,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R0939,Dubai,Grade 12 - expatriate,2,0,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0940,Sharjah,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R0941,Abu Dhabi,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0942,Umm Al Quwain,Career changer,1,0,2,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0943,Dubai,Grade 12 - UAE national,3,0,4,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0944,Dubai,Working professional,3,0,1,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0945,Dubai,Grade 12 - expatriate,3,0,3,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0946,Dubai,Grade 12 - expatriate,2,0,5,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R0947,Abu Dhabi,Grade 12 - expatriate,3,0,4,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0948,Dubai,Grade 12 - UAE national,1,0,3,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0949,Sharjah,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0950,Dubai,Working professional,4,1,5,1,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0951,Abu Dhabi,Grade 12 - UAE national,4,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0952,Abu Dhabi,Career changer,2,0,2,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R0953,Dubai,Grade 12 - UAE national,2,1,2,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R0954,Dubai,Grade 12 - expatriate,1,0,3,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R0955,Dubai,Grade 12 - expatriate,2,0,3,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R0956,Abu Dhabi,Grade 12 - UAE national,1,0,3,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0957,Abu Dhabi,Grade 12 - UAE national,3,0,4,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R0958,Abu Dhabi,Career changer,3,0,2,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0959,Abu Dhabi,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R0960,Ras Al Khaimah,Grade 12 - UAE national,4,0,5,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0961,Ajman,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0962,Abu Dhabi,Working professional,1,0,4,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0963,Abu Dhabi,Grade 12 - expatriate,3,1,4,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R0964,Dubai,Working professional,3,0,2,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0965,Umm Al Quwain,Career changer,4,0,4,0,Hybrid / online,Over AED 80k,Fees and scholarships,SIMULATED
+R0966,Dubai,Career changer,4,0,5,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0967,Fujairah,Grade 12 - UAE national,4,1,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R0968,Dubai,Grade 12 - UAE national,4,0,4,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R0969,Abu Dhabi,Working professional,3,0,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0970,Ajman,Working professional,4,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R0971,Sharjah,Working professional,3,0,3,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0972,Sharjah,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R0973,Dubai,Grade 12 - expatriate,3,0,5,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0974,Dubai,Grade 12 - expatriate,2,0,5,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R0975,Abu Dhabi,Working professional,4,0,3,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0976,Dubai,Working professional,2,0,1,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0977,Dubai,Career changer,3,0,4,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0978,Dubai,Working professional,3,0,3,0,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R0979,Dubai,Grade 12 - expatriate,1,0,4,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R0980,Abu Dhabi,Working professional,2,0,3,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R0981,Abu Dhabi,Working professional,4,0,3,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R0982,Fujairah,Career changer,2,0,4,1,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R0983,Dubai,Working professional,3,0,4,0,Part-time / evening,AED 30-50k,Location,SIMULATED
+R0984,Ajman,Working professional,3,0,2,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R0985,Dubai,Working professional,3,0,1,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R0986,Ajman,Working professional,2,0,2,0,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R0987,Dubai,Grade 12 - expatriate,4,0,3,0,Hybrid / online,AED 50-80k,Location,SIMULATED
+R0988,Dubai,Working professional,3,0,2,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R0989,Abu Dhabi,Grade 12 - UAE national,5,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R0990,Abu Dhabi,Grade 12 - expatriate,2,0,3,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R0991,Abu Dhabi,Career changer,2,0,4,0,Part-time / evening,AED 50-80k,Flexible schedule,SIMULATED
+R0992,Ajman,Grade 12 - UAE national,2,0,4,0,Part-time / evening,AED 50-80k,Location,SIMULATED
+R0993,Sharjah,Grade 12 - expatriate,1,0,2,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0994,Fujairah,Grade 12 - expatriate,3,1,5,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R0995,Dubai,Working professional,3,0,5,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R0996,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R0997,Ras Al Khaimah,Career changer,2,0,2,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R0998,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R0999,Ajman,Grade 12 - UAE national,3,0,4,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R1000,Ras Al Khaimah,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1001,Sharjah,Working professional,1,0,1,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1002,Ajman,Working professional,4,0,4,1,Part-time / evening,Over AED 80k,Accreditation,SIMULATED
+R1003,Abu Dhabi,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1004,Dubai,Grade 12 - expatriate,2,0,4,1,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R1005,Dubai,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1006,Abu Dhabi,Career changer,1,0,2,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R1007,Ajman,Career changer,3,0,3,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R1008,Abu Dhabi,Grade 12 - expatriate,3,0,4,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R1009,Abu Dhabi,Grade 12 - UAE national,2,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R1010,Abu Dhabi,Grade 12 - expatriate,3,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1011,Ras Al Khaimah,Grade 12 - expatriate,2,0,5,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1012,Dubai,Grade 12 - UAE national,2,0,2,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1013,Dubai,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1014,Sharjah,Grade 12 - UAE national,1,0,3,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R1015,Sharjah,Grade 12 - UAE national,2,0,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1016,Dubai,Grade 12 - UAE national,3,1,4,0,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R1017,Ajman,Grade 12 - UAE national,4,1,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1018,Dubai,Career changer,3,0,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1019,Dubai,Grade 12 - UAE national,3,0,2,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1020,Abu Dhabi,Grade 12 - UAE national,4,0,5,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R1021,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R1022,Umm Al Quwain,Career changer,4,1,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R1023,Abu Dhabi,Grade 12 - UAE national,1,0,4,1,Full-time on campus,AED 50-80k,Location,SIMULATED
+R1024,Dubai,Grade 12 - expatriate,3,0,3,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R1025,Ajman,Grade 12 - expatriate,3,0,5,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R1026,Abu Dhabi,Grade 12 - UAE national,2,0,4,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1027,Abu Dhabi,Career changer,3,0,3,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R1028,Abu Dhabi,Grade 12 - expatriate,2,0,4,1,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R1029,Umm Al Quwain,Grade 12 - UAE national,1,0,4,1,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R1030,Abu Dhabi,Grade 12 - expatriate,1,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1031,Dubai,Grade 12 - expatriate,1,0,5,1,Full-time on campus,Under AED 30k,Flexible schedule,SIMULATED
+R1032,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R1033,Dubai,Grade 12 - expatriate,2,0,5,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1034,Dubai,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R1035,Sharjah,Grade 12 - expatriate,3,0,3,1,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R1036,Ajman,Working professional,4,1,1,0,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R1037,Abu Dhabi,Working professional,3,0,3,0,Part-time / evening,AED 30-50k,Fees and scholarships,SIMULATED
+R1038,Dubai,Grade 12 - expatriate,1,0,5,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R1039,Abu Dhabi,Grade 12 - UAE national,2,0,5,1,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R1040,Abu Dhabi,Working professional,3,0,4,1,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1041,Abu Dhabi,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1042,Dubai,Working professional,3,0,2,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R1043,Dubai,Grade 12 - UAE national,5,1,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1044,Abu Dhabi,Grade 12 - expatriate,2,0,5,0,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R1045,Dubai,Grade 12 - UAE national,2,0,4,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R1046,Sharjah,Grade 12 - UAE national,3,0,2,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R1047,Sharjah,Grade 12 - UAE national,4,0,5,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1048,Dubai,Working professional,2,0,2,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R1049,Ras Al Khaimah,Working professional,3,1,4,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R1050,Abu Dhabi,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R1051,Sharjah,Career changer,4,0,4,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R1052,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1053,Sharjah,Working professional,2,0,4,0,Part-time / evening,Over AED 80k,Flexible schedule,SIMULATED
+R1054,Dubai,Grade 12 - expatriate,2,0,5,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R1055,Ras Al Khaimah,Working professional,3,0,5,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R1056,Sharjah,Grade 12 - UAE national,3,0,3,0,Part-time / evening,Over AED 80k,Fees and scholarships,SIMULATED
+R1057,Dubai,Career changer,2,0,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1058,Abu Dhabi,Working professional,4,0,2,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R1059,Dubai,Grade 12 - UAE national,1,0,4,0,Hybrid / online,AED 30-50k,Accreditation,SIMULATED
+R1060,Dubai,Grade 12 - UAE national,5,1,2,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1061,Abu Dhabi,Working professional,5,0,5,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1062,Sharjah,Grade 12 - UAE national,4,0,4,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R1063,Sharjah,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1064,Umm Al Quwain,Working professional,4,1,4,1,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R1065,Ajman,Working professional,3,0,5,1,Part-time / evening,AED 50-80k,Fees and scholarships,SIMULATED
+R1066,Fujairah,Grade 12 - expatriate,1,0,3,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1067,Ajman,Grade 12 - expatriate,4,0,5,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R1068,Ras Al Khaimah,Working professional,2,0,4,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R1069,Abu Dhabi,Grade 12 - expatriate,4,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1070,Dubai,Grade 12 - UAE national,4,0,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1071,Dubai,Grade 12 - UAE national,1,0,4,1,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1072,Dubai,Grade 12 - UAE national,2,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1073,Sharjah,Grade 12 - expatriate,2,0,5,1,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1074,Dubai,Grade 12 - expatriate,3,0,3,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R1075,Abu Dhabi,Grade 12 - UAE national,3,0,2,0,Hybrid / online,AED 30-50k,Career prospects,SIMULATED
+R1076,Abu Dhabi,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1077,Dubai,Grade 12 - expatriate,3,0,2,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1078,Sharjah,Grade 12 - UAE national,3,0,3,0,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R1079,Dubai,Grade 12 - UAE national,4,0,5,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R1080,Dubai,Career changer,2,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1081,Abu Dhabi,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R1082,Abu Dhabi,Career changer,1,0,1,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R1083,Dubai,Working professional,2,0,1,0,Part-time / evening,Under AED 30k,Accreditation,SIMULATED
+R1084,Abu Dhabi,Grade 12 - UAE national,3,1,3,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R1085,Dubai,Career changer,3,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1086,Dubai,Working professional,3,0,2,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1087,Dubai,Grade 12 - UAE national,5,0,4,1,Part-time / evening,Over AED 80k,Fees and scholarships,SIMULATED
+R1088,Sharjah,Grade 12 - UAE national,3,1,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R1089,Dubai,Career changer,4,0,3,0,Hybrid / online,AED 50-80k,Fees and scholarships,SIMULATED
+R1090,Ajman,Grade 12 - expatriate,2,0,4,0,Hybrid / online,Over AED 80k,Accreditation,SIMULATED
+R1091,Dubai,Career changer,1,0,2,0,Part-time / evening,Over AED 80k,Location,SIMULATED
+R1092,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R1093,Dubai,Grade 12 - UAE national,3,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1094,Abu Dhabi,Working professional,3,0,2,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R1095,Dubai,Career changer,3,0,4,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R1096,Abu Dhabi,Grade 12 - UAE national,1,0,3,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R1097,Abu Dhabi,Grade 12 - expatriate,3,0,5,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R1098,Dubai,Grade 12 - expatriate,2,0,3,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1099,Dubai,Grade 12 - UAE national,2,0,5,1,Full-time on campus,AED 30-50k,Location,SIMULATED
+R1100,Umm Al Quwain,Career changer,4,1,4,0,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R1101,Ras Al Khaimah,Grade 12 - expatriate,3,0,5,0,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R1102,Fujairah,Grade 12 - UAE national,4,1,4,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1103,Abu Dhabi,Working professional,1,0,4,0,Hybrid / online,AED 30-50k,Fees and scholarships,SIMULATED
+R1104,Dubai,Career changer,3,0,4,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1105,Ras Al Khaimah,Grade 12 - UAE national,1,0,2,0,Part-time / evening,AED 30-50k,Accreditation,SIMULATED
+R1106,Ajman,Grade 12 - UAE national,1,0,5,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R1107,Umm Al Quwain,Working professional,2,0,2,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1108,Abu Dhabi,Working professional,5,1,3,1,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R1109,Sharjah,Grade 12 - UAE national,2,0,3,1,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R1110,Dubai,Grade 12 - expatriate,1,0,4,1,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R1111,Sharjah,Grade 12 - UAE national,2,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1112,Fujairah,Working professional,2,0,4,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1113,Abu Dhabi,Grade 12 - expatriate,3,0,4,1,Hybrid / online,Under AED 30k,Location,SIMULATED
+R1114,Abu Dhabi,Working professional,2,0,4,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R1115,Dubai,Grade 12 - expatriate,5,1,4,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R1116,Abu Dhabi,Grade 12 - UAE national,4,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R1117,Sharjah,Working professional,3,0,3,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R1118,Sharjah,Grade 12 - expatriate,2,0,5,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1119,Sharjah,Grade 12 - expatriate,2,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1120,Fujairah,Grade 12 - expatriate,2,0,4,0,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R1121,Abu Dhabi,Grade 12 - UAE national,3,1,2,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1122,Dubai,Grade 12 - UAE national,3,0,5,1,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R1123,Abu Dhabi,Grade 12 - UAE national,1,0,3,1,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1124,Dubai,Career changer,2,0,3,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R1125,Abu Dhabi,Grade 12 - UAE national,3,0,4,1,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1126,Ajman,Grade 12 - expatriate,2,0,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R1127,Dubai,Grade 12 - expatriate,1,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1128,Dubai,Career changer,2,0,5,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1129,Abu Dhabi,Grade 12 - expatriate,1,0,3,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R1130,Dubai,Grade 12 - expatriate,3,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1131,Ras Al Khaimah,Career changer,2,0,5,1,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1132,Abu Dhabi,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R1133,Umm Al Quwain,Grade 12 - UAE national,1,0,4,0,Full-time on campus,Over AED 80k,Accreditation,SIMULATED
+R1134,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1135,Dubai,Grade 12 - UAE national,3,0,3,0,Full-time on campus,Over AED 80k,Location,SIMULATED
+R1136,Dubai,Career changer,3,0,4,1,Part-time / evening,AED 30-50k,Career prospects,SIMULATED
+R1137,Sharjah,Grade 12 - UAE national,2,0,5,0,Full-time on campus,AED 50-80k,Location,SIMULATED
+R1138,Abu Dhabi,Grade 12 - expatriate,2,0,5,1,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1139,Sharjah,Career changer,1,0,4,0,Part-time / evening,Over AED 80k,Career prospects,SIMULATED
+R1140,Dubai,Working professional,3,0,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1141,Sharjah,Grade 12 - expatriate,2,0,3,0,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R1142,Sharjah,Grade 12 - expatriate,1,0,5,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1143,Ajman,Career changer,3,0,3,0,Full-time on campus,Under AED 30k,Location,SIMULATED
+R1144,Abu Dhabi,Working professional,5,1,4,0,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R1145,Umm Al Quwain,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R1146,Dubai,Grade 12 - UAE national,3,0,5,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R1147,Fujairah,Career changer,5,0,2,0,Part-time / evening,Under AED 30k,Fees and scholarships,SIMULATED
+R1148,Sharjah,Grade 12 - UAE national,3,0,5,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1149,Abu Dhabi,Working professional,4,0,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R1150,Abu Dhabi,Grade 12 - UAE national,3,0,3,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1151,Abu Dhabi,Working professional,4,1,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1152,Sharjah,Grade 12 - UAE national,3,0,5,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R1153,Dubai,Grade 12 - expatriate,3,0,5,0,Full-time on campus,AED 50-80k,Flexible schedule,SIMULATED
+R1154,Abu Dhabi,Career changer,4,0,5,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1155,Ras Al Khaimah,Grade 12 - UAE national,3,0,4,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R1156,Abu Dhabi,Grade 12 - expatriate,1,0,2,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R1157,Abu Dhabi,Working professional,2,0,3,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R1158,Abu Dhabi,Grade 12 - UAE national,3,0,4,0,Hybrid / online,Under AED 30k,Location,SIMULATED
+R1159,Sharjah,Working professional,3,0,3,0,Hybrid / online,Under AED 30k,Flexible schedule,SIMULATED
+R1160,Sharjah,Career changer,2,0,3,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1161,Ajman,Grade 12 - UAE national,1,0,4,1,Part-time / evening,Under AED 30k,Career prospects,SIMULATED
+R1162,Abu Dhabi,Grade 12 - expatriate,3,0,3,1,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R1163,Dubai,Grade 12 - expatriate,4,1,4,0,Hybrid / online,Over AED 80k,Career prospects,SIMULATED
+R1164,Abu Dhabi,Working professional,3,0,4,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1165,Abu Dhabi,Grade 12 - expatriate,3,0,2,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R1166,Abu Dhabi,Grade 12 - UAE national,3,0,5,1,Full-time on campus,AED 50-80k,Accreditation,SIMULATED
+R1167,Dubai,Working professional,1,0,3,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1168,Dubai,Grade 12 - UAE national,3,0,3,0,Hybrid / online,AED 50-80k,Accreditation,SIMULATED
+R1169,Abu Dhabi,Grade 12 - UAE national,2,1,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1170,Abu Dhabi,Working professional,3,0,2,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1171,Dubai,Working professional,2,0,3,0,Hybrid / online,AED 30-50k,Flexible schedule,SIMULATED
+R1172,Sharjah,Career changer,2,0,4,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1173,Abu Dhabi,Working professional,5,0,1,0,Part-time / evening,AED 50-80k,Career prospects,SIMULATED
+R1174,Dubai,Grade 12 - UAE national,2,0,2,0,Full-time on campus,AED 30-50k,Accreditation,SIMULATED
+R1175,Ajman,Grade 12 - UAE national,4,1,2,0,Full-time on campus,Under AED 30k,Fees and scholarships,SIMULATED
+R1176,Abu Dhabi,Grade 12 - expatriate,4,0,3,0,Full-time on campus,AED 50-80k,Fees and scholarships,SIMULATED
+R1177,Abu Dhabi,Career changer,1,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1178,Abu Dhabi,Working professional,4,1,3,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R1179,Dubai,Grade 12 - expatriate,2,0,4,0,Full-time on campus,AED 30-50k,Career prospects,SIMULATED
+R1180,Dubai,Working professional,4,1,2,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R1181,Dubai,Career changer,1,0,5,1,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R1182,Dubai,Career changer,3,0,3,0,Hybrid / online,Under AED 30k,Career prospects,SIMULATED
+R1183,Dubai,Grade 12 - expatriate,4,1,5,0,Full-time on campus,AED 30-50k,Flexible schedule,SIMULATED
+R1184,Umm Al Quwain,Career changer,4,0,4,0,Part-time / evening,Over AED 80k,Fees and scholarships,SIMULATED
+R1185,Ajman,Grade 12 - expatriate,3,1,3,0,Full-time on campus,AED 30-50k,Location,SIMULATED
+R1186,Dubai,Grade 12 - expatriate,1,0,4,0,Full-time on campus,AED 50-80k,Career prospects,SIMULATED
+R1187,Fujairah,Grade 12 - expatriate,2,0,5,1,Hybrid / online,AED 50-80k,Career prospects,SIMULATED
+R1188,Dubai,Grade 12 - UAE national,4,0,4,0,Part-time / evening,AED 50-80k,Accreditation,SIMULATED
+R1189,Abu Dhabi,Working professional,4,1,5,1,Part-time / evening,Under AED 30k,Flexible schedule,SIMULATED
+R1190,Dubai,Grade 12 - expatriate,2,0,5,0,Hybrid / online,Under AED 30k,Fees and scholarships,SIMULATED
+R1191,Abu Dhabi,Grade 12 - UAE national,1,0,4,1,Full-time on campus,Over AED 80k,Fees and scholarships,SIMULATED
+R1192,Abu Dhabi,Grade 12 - expatriate,3,0,5,0,Full-time on campus,AED 30-50k,Fees and scholarships,SIMULATED
+R1193,Abu Dhabi,Grade 12 - UAE national,5,1,4,0,Full-time on campus,Under AED 30k,Accreditation,SIMULATED
+R1194,Sharjah,Working professional,5,0,3,0,Hybrid / online,Under AED 30k,Accreditation,SIMULATED
+R1195,Dubai,Career changer,2,0,2,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED
+R1196,Fujairah,Grade 12 - expatriate,2,0,3,1,Full-time on campus,Under AED 30k,Location,SIMULATED
+R1197,Dubai,Working professional,2,0,3,0,Full-time on campus,Under AED 30k,Career prospects,SIMULATED
+R1198,Abu Dhabi,Working professional,3,0,5,1,Hybrid / online,AED 50-80k,Flexible schedule,SIMULATED
+R1199,Dubai,Working professional,4,1,2,0,Part-time / evening,AED 30-50k,Flexible schedule,SIMULATED
+R1200,Ajman,Grade 12 - UAE national,1,0,3,0,Full-time on campus,Over AED 80k,Career prospects,SIMULATED

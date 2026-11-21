@@ -1,0 +1,11 @@
+﻿segment,course,n,mean_interest,top2_box_pct,ci_low,ci_high,stated_intent_pct
+Grade 12 - UAE national,BSc Library & Information Science,364,2.64,19.5,15.8,23.9,14.0
+Grade 12 - UAE national,BSc Cognitive Science & AI,364,3.64,57.4,52.3,62.4,31.6
+Grade 12 - expatriate,BSc Library & Information Science,364,2.28,9.6,7.0,13.1,8.0
+Grade 12 - expatriate,BSc Cognitive Science & AI,364,3.77,60.4,55.3,65.3,28.6
+Working professional,BSc Library & Information Science,275,2.97,28.7,23.7,34.3,19.3
+Working professional,BSc Cognitive Science & AI,275,3.13,39.3,33.7,45.2,21.5
+Career changer,BSc Library & Information Science,197,2.93,29.4,23.5,36.2,14.7
+Career changer,BSc Cognitive Science & AI,197,3.48,52.3,45.3,59.1,24.4
+All respondents,BSc Library & Information Science,1200,2.65,20.2,18.1,22.6,13.5
+All respondents,BSc Cognitive Science & AI,1200,3.53,53.3,50.5,56.1,27.2

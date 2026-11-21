@@ -1,0 +1,16 @@
+fact_id,topic,course_relevance,fact,source_ids
+F01,Competitor programme,Library & Information Science,"Al Wasl University (Dubai) offers a CAA-accredited Bachelor in Library and Information Sciences, listed with status Active.",S01;S02
+F02,Competitor programme,Library & Information Science,Al Wasl University's Bachelor in Library and Information Sciences is reported as launched in 2020.,S03
+F03,Competitor programme,Library & Information Science,The American University in the Emirates (Dubai) launched a Master of Information & Library Science through its College of Computer Information Technology.,S04
+F04,Adjacent programme,Cognitive Science & AI,"UAE University's Department of Cognitive Sciences offers majors in Psychology and Linguistics and a minor (not a major) in Cognitive Science.",S05
+F05,Competitor programme,Cognitive Science & AI,"MBZUAI announced its first undergraduate programme, a BSc in Artificial Intelligence with Business and Engineering streams, in March 2025.",S06
+F06,Demand signal,Cognitive Science & AI,MBZUAI's first undergraduate cohort numbered 115 students from more than 2000 applications (about 5% accepted).,S07
+F07,Price point,Cognitive Science & AI,MBZUAI lists undergraduate tuition of USD 45000 per year for students entering in Fall 2025.,S08
+F08,Competitor programme,Cognitive Science & AI,University of Sharjah offers a four-year BSc in Artificial Intelligence in its College of Computing and Informatics.,S09
+F09,Competitor programme,Cognitive Science & AI,Canadian University Dubai announced a BSc in Artificial Intelligence in July 2025.,S10
+F10,Competitor programme,Cognitive Science & AI,Al Ain University introduced a BSc in Artificial Intelligence and Robotics and an MSc in AI in 2025.,S11
+F11,Policy,Cognitive Science & AI,The UAE National Strategy for Artificial Intelligence 2031 (announced October 2017) includes attracting and training talent for AI-enabled jobs among its objectives.,S12;S13
+F12,Pipeline,Cognitive Science & AI,"From the 2025-26 academic year, AI is taught as a subject in UAE public schools from kindergarten to Grade 12, delivered by about 1000 teachers.",S14
+F13,Employer landscape,Library & Information Science,"The Mohammed bin Rashid Library in Dubai opened to the public on 16 June 2022 with nine specialised libraries and over one million print and digital books.",S15;S16
+F14,Employer landscape,Cognitive Science & AI,UAE University has adopted an Artificial Intelligence Agenda 2025-2031 covering education and research.,S17
+F15,Search finding,Cognitive Science & AI,"In this desk search (Nov 2026), no UAE institution was found offering a dedicated undergraduate degree combining Cognitive Science and AI. This is a search result, not proof that none exists; confirm against the CAA programme register.",S05;S06;S09;S10;S11

@@ -1,0 +1,7 @@
+﻿course,scenario,addressable_pool,stated_intent_rate,conversion,yield,applicants,first_year_intake
+BSc Library & Information Science,Conservative,1800,0.135,0.1,0.45,24,11
+BSc Library & Information Science,Base,1800,0.135,0.18,0.45,44,20
+BSc Library & Information Science,Optimistic,1800,0.135,0.28,0.45,68,31
+BSc Cognitive Science & AI,Conservative,9000,0.272,0.1,0.3,244,73
+BSc Cognitive Science & AI,Base,9000,0.272,0.18,0.3,440,132
+BSc Cognitive Science & AI,Optimistic,9000,0.272,0.28,0.3,685,205

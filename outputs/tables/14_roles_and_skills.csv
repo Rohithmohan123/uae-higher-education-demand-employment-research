@@ -1,0 +1,11 @@
+﻿course,role,typical_sectors,core_skills
+lis,Librarian / information services officer,"Public, academic and school libraries",Cataloguing & metadata; Reference services; Information literacy instruction; Arabic & English collection development
+lis,Digital librarian / repository manager,"Universities, research centres","Digital collections; Metadata standards (Dublin Core, MARC); Repository platforms; Digitisation workflows"
+lis,Records & archives specialist,"Government entities, large companies",Records management; Retention schedules; Archival description; Document management systems
+lis,Knowledge management officer,"Corporate, consulting, government",Taxonomy design; Intranet & search; Knowledge-sharing processes; Stakeholder engagement
+lis,Data curator / research data officer,"Universities, research institutes",Research data management; Data documentation; Basic programming & data tools; Open-access policy
+cogai,Machine learning engineer (junior),"Technology, fintech, government",Python; Machine learning; Data engineering basics; Model evaluation
+cogai,Conversational AI / NLP developer,"Technology, government services",Natural language processing; Arabic language technology; Linguistics; Python
+cogai,UX researcher / human-AI interaction specialist,"Technology, banking, government",Experimental design; Cognitive psychology; Usability testing; Statistics
+cogai,AI product analyst,"Technology, consulting, fintech",Data analysis; Product thinking; AI ethics & governance; Communication
+cogai,Behavioural data scientist,"Healthcare, banking, research",Statistics; Behavioural science; Python / R; Experimentation (A/B testing)
